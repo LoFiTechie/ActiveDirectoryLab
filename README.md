@@ -1,6 +1,5 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project showcases a comprehensive setup of an Active Directory (AD) environment using VirtualBox. The purpose of this lab is to simulate a real-world IT infrastructure, providing hands-on experience with Active Directory, which is essential for managing and securing network resources in a professional setting.
